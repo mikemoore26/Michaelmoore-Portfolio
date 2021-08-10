@@ -4,7 +4,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/mikemoore26/mikemoore26.github.io/blob/master/projects/SeoulBikeData.ipynb)
+[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/mikemoore26/Bike_LinearRegression/blob/main/SeoulBikeData.ipynb)
 
 <img src="images/sbike.jpeg?raw=true"/>
 
@@ -15,7 +15,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying Customers Likely to Subscribe for Term Deposit](https://github.com/mikemoore26/mikemoore26.github.io/blob/master/projects/banking_logistics.ipynb)
+[Identifying Customers Likely to Subscribe for Term Deposit](https://github.com/mikemoore26/Banking_Logisitics/blob/main/banking_logistics.ipynb)
 
 <img src="images/bankingpic.jpeg?raw=true"/>
 
@@ -30,13 +30,21 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/mikemoore26/mikemoore26.github.io/blob/master/projects/Bone(knn_NB).ipynb)
+[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/mikemoore26/Bone_KNN/blob/main/Bone(knn_NB).ipynb)
 
 <img src="images/knee.jpeg?raw=true"/>
 
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
+
+***
+
+[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/mikemoore26/Talking_Data_Optimization_classification/blob/main/talking_data.ipynb)
+
+<img src="images/talking_data.png?raw=true"/>
+
+****EDIT****
 
 ***
 
