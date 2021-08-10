@@ -51,7 +51,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Employee Compensation Clustering ](https://github.com/mikemoore26/Employee_Compensation_Clustering/blob/main/EmpCompensation_clustering.ipynb)
 
-<img src="images/employeepoc.jpeg?raw=true"/>
+<img src="images/employeepic.jpeg?raw=true"/>
 
 ****EDIT****
 
