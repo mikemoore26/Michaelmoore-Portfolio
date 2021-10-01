@@ -49,8 +49,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
 
-
 ## OTHER PROJECTS 
+[Predicted Car Price based on attributes](https://github.com/mikemoore26/car_price_prediction/blob/main/carprice.ipynb)
+<img src="carsales.jpeg" />
 ***
 
 [TalkingData Ad Fraudulent capture](https://github.com/mikemoore26/talking_data/blob/main/talking_data.ipynb)
