@@ -69,6 +69,6 @@ Accuracy Score: 89.47%
 [Recognising Handwritten numbers using Neural Networks]
 
 [Titanic Survivors ](https://github.com/mikemoore26/titanic/blob/main/Titanic.ipynb)
-<img src='images/titanic.jpg'
+<img src='images/titanic.jpg' />
 
 
