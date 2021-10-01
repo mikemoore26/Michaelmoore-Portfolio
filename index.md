@@ -51,12 +51,12 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[TalkingData Ad Fraudulent capture](https://github.com/mikemoore26/Talking_Data_Optimization_classification/blob/main/talking_data.ipynb)
+[TalkingData Ad Fraudulent capture](https://github.com/mikemoore26/talking_data/blob/main/talking_data.ipynb)
 
 <img src="images/talking_data.png?raw=true"/>
 
-****EDIT****
-
+****
+Accuracy Score: 89.47%
 ***
 
 
