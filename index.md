@@ -31,6 +31,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
+- Accuracy: 90%
 - Used logistic regression to identify potential bankers based on various attributes.
 - Implemented SMOTE to balance class labels.
 - Created the confusion matrix for the predictions and make note of the outputs.
