@@ -24,7 +24,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying Customers Likely to Subscribe for Term Deposit](https://github.com/mikemoore26/Banking_Logisitics/blob/main/banking_logistics.ipynb)
+[Identifying Customers Likely to Subscribe for Term Deposit](https://github.com/mikemoore26/banking_membership)
 
 <img src="images/bankingpic.jpeg?raw=true"/>
 
