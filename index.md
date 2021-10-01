@@ -41,10 +41,10 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/mikemoore26/Bone_KNN/blob/main/Bone(knn_NB).ipynb)
+[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/mikemoore26/Bone_K_Nearest_Neighbor/blob/main/Bone(knn_NB).ipynb)
 
 <img src="images/knee.jpeg?raw=true"/>
-
+- Accuracy: 85.95%
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
