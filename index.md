@@ -3,6 +3,11 @@
 Here are some of my best Data Science Projects. I have explored various machine-learning algorithms for different datasets. Feel free to contanct me to learn more about my experience working with these projects.
 
 ***
+[Predicting House Pricing Based](https://github.com/mikemoore26/house_Prediction)
+- *** accuracy score: 85%
+-Practiced data normalization
+- Scaled data to make more accurate predictions
+***
 
 [Examining the effect of environmental factors and weather on Bike rentals](https://github.com/mikemoore26/Bike_LinearRegression/blob/main/SeoulBikeData.ipynb)
 
