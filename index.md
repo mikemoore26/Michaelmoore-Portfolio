@@ -8,8 +8,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/housesbanner.png" />
 
 - *** accuracy score: 85%
--Practiced data normalization
+- Practiced data normalization
 - Scaled data to make more accurate predictions
+- Used various logisitic models to find the appropreite model to get more accurate scores 
 ***
 
 [Examining the effect of environmental factors and weather on Bike rentals](https://github.com/mikemoore26/Bike_LinearRegression/blob/main/SeoulBikeData.ipynb)
