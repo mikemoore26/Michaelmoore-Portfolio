@@ -66,7 +66,7 @@ Accuracy Score: 89.47%
 
 <img src="images/employeepic.jpeg?raw=true"/>
 
-[Recognising Handwritten numbers using Neural Networks]
+[Recognising Handwritten numbers using Neural Networks](https://github.com/mikemoore26/img_to_text)
 
 [Titanic Survivors ](https://github.com/mikemoore26/titanic/blob/main/Titanic.ipynb)
 <img src='images/titanic.jpg' />
