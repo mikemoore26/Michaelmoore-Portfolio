@@ -49,6 +49,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
 
+
+## OTHER PROJECTS 
 ***
 
 [TalkingData Ad Fraudulent capture](https://github.com/mikemoore26/talking_data/blob/main/talking_data.ipynb)
@@ -60,13 +62,10 @@ Accuracy Score: 89.47%
 ***
 
 
-[Employee Compensation Clustering ](https://github.com/mikemoore26/Employee_Compensation_Clustering/blob/main/EmpCompensation_clustering.ipynb)
+[Employee Compensation Clustering ](https://github.com/mikemoore26/employee_compensation/blob/main/EmpCompensation_clustering.ipynb)
 
 <img src="images/employeepic.jpeg?raw=true"/>
 
-****EDIT****
-
-***
 [Recognising Handwritten numbers using Neural Networks]
 
 
