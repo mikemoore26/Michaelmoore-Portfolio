@@ -13,7 +13,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Used various logisitic models to find the appropreite model to get more accurate scores 
 ***
 
-[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/mikemoore26/Bike_LinearRegression/blob/main/SeoulBikeData.ipynb)
+[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/mikemoore26/Linear_Bike)
 
 <img src="images/sbike.jpeg?raw=true"/>
 
