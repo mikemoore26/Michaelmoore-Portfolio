@@ -51,7 +51,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ## OTHER PROJECTS 
 [Predicted Car Price based on attributes](https://github.com/mikemoore26/car_price_prediction/blob/main/carprice.ipynb)
-<img src="carsales.jpeg" />
+<img src="images/carsales.jpeg" />
 ***
 
 [TalkingData Ad Fraudulent capture](https://github.com/mikemoore26/talking_data/blob/main/talking_data.ipynb)
