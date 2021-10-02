@@ -50,6 +50,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Selected best model based on train and test performance
 
 ## OTHER PROJECTS 
+[Lung Cancer Prediction](https://github.com/mikemoore26/Lung_Cancer/blob/main/eda.ipynb)
+<img src='LungCACXR.png' />
+
 [Predicted Car Price based on attributes](https://github.com/mikemoore26/car_price_prediction/blob/main/carprice.ipynb)
 <img src="images/carsales.jpeg" />
 ***
