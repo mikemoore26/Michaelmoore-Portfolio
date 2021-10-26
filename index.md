@@ -28,7 +28,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/sbike.jpeg?raw=true"/>
 
-- Accuracy: 73.73%
+- Accuracy: 88.39%
+- ## Tools: ## sklearn,pandas,numpy,matplotlib,seaborn,regression,
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
