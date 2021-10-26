@@ -9,7 +9,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 - ### accuracy score: 94%
 - #### tools used: sklearn,logistic Regression,pandas,numpy, pickle
-- ##project Description:
+- ## project Description:
 - Visual EDA, Feature Engineering, Model building
 - Used various logisitic models to find the appropreite model to get more accurate scores 
 -   -Random Forest Gave us the best estimator
@@ -21,7 +21,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 - ### accuracy score: 85%
 - #### tools used:
-- ##project Description:
+- ## project Description:
 - Practiced data normalization
 - Scaled data to make more accurate predictions
 - Used various logisitic models to find the appropreite model to get more accurate scores 
@@ -33,7 +33,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 - ### Accuracy: 88.39%
 - #### Tools: sklearn,pandas,numpy,matplotlib,seaborn,regression
-- ##project Description:
+- ## project Description:
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
@@ -49,7 +49,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 - ### Accuracy: 90%
 - #### Tool Used:
-- ##project Description:
+- ## project Description:
 - Used logistic regression to identify potential bankers based on various attributes.
 - Implemented SMOTE to balance class labels.
 - Created the confusion matrix for the predictions and make note of the outputs.
@@ -64,7 +64,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/knee.jpeg?raw=true"/>
 - ###mAccuracy: 85.95%
 - ###: Tool Used:
-- ##project Description
+- ## project Description
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
