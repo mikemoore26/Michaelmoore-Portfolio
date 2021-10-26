@@ -8,7 +8,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/heart_img.jpeg" />
 
 - ### accuracy score: 94%
-- #### tools used: sklearn,logistic Regression,pandas,numpy, pickle
+- #### skills used: python,sklearn,logistic Regression,pandas,numpy, pickle
 - ##### project Description:
 - Visual EDA, Feature Engineering, Model building
 - Used various logisitic models to find the appropreite model to get more accurate scores 
@@ -20,7 +20,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/housesbanner.png" />
 
 - ### accuracy score: 85%
-- #### tools used:
+- #### skills used:
 - ## project Description:
 - Practiced data normalization
 - Scaled data to make more accurate predictions
@@ -32,7 +32,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/sbike.jpeg?raw=true"/>
 
 - ### Accuracy: 88.39%
-- #### Tools: sklearn,pandas,numpy,matplotlib,seaborn,regression
+- #### skills used: sklearn,pandas,numpy,matplotlib,seaborn,regression
 - ##### project Description:
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
@@ -48,7 +48,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 ***
 
 - ### Accuracy: 90%
-- #### Tool Used:
+- #### skills Used:
 - ##### project Description:
 - Used logistic regression to identify potential bankers based on various attributes.
 - Implemented SMOTE to balance class labels.
@@ -66,11 +66,11 @@ Here are some of my best Data Science Projects. I have explored various machine-
 ***
 
 - ### Accuracy: 85.95%
-- #### Tool Used:
+- #### skills Used:
 - ##### project Description:
-- Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
-- Compared predictive performance by fitting a Naive Bayes model to the data
-- Selected best model based on train and test performance
+  -Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
+  - Compared predictive performance by fitting a Naive Bayes model to the data
+  - Selected best model based on train and test performance
 
 ## OTHER PROJECTS 
 [Lung Cancer Prediction](https://github.com/mikemoore26/Lung_Cancer/blob/main/eda.ipynb)
