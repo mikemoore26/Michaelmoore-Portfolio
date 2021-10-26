@@ -62,6 +62,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 [Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/mikemoore26/Bone_K_Nearest_Neighbor/blob/main/Bone(knn_NB).ipynb)
 
 <img src="images/knee.jpeg?raw=true"/>
+
+***
+
 - ### Accuracy: 85.95%
 - #### Tool Used:
 - ##### project Description:
