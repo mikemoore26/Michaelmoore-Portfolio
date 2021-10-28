@@ -8,8 +8,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/heart_img.jpeg" />
 
 - <b>accuracy score</b>: 94%
-- <b>skills used:</b> Python,sklearn,logistic Regression,pandas,numpy, pickle
-- <b>Project Description:</b>:
+- <b>skills used:</b> python,sklearn,logistic Regression,pandas,numpy, pickle
+- <b>Project Description:</b>: In this project i used various features to determain if a patient would have lung cancer
 - Visual EDA, Feature Engineering, Model building
 - Used various logisitic models to find the appropreite model to get more accurate scores 
 -   -Random Forest Gave us the best estimator
@@ -19,9 +19,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/housesbanner.png" />
 
-- ### accuracy score: 85%
-- #### skills used:
-- ## project Description:
+- <b>accuracy score:</b> 85%
+- <b>skills used:</b>
+- <b>project Description:</b> in this project we used various features to determaine the price of a house depending on what the property have to offer
 - Practiced data normalization
 - Scaled data to make more accurate predictions
 - Used various logisitic models to find the appropreite model to get more accurate scores 
@@ -31,9 +31,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/sbike.jpeg?raw=true"/>
 
-- ### Accuracy: 88.39%
-- #### skills used: sklearn,pandas,numpy,matplotlib,seaborn,regression
-- ##### project Description:
+- <b>Accuracy:</b> 88.39%
+- <b>skills used:</b> sklearn,pandas,numpy,matplotlib,seaborn,regression
+- <b>project Description:</b>
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
@@ -47,9 +47,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-- ### Accuracy: 90%
-- #### skills Used:
-- ##### project Description:
+- <b> Accuracy:</b> 90%
+- <b> skills Used:</b>
+- <b> project Description:</b>
 - Used logistic regression to identify potential bankers based on various attributes.
 - Implemented SMOTE to balance class labels.
 - Created the confusion matrix for the predictions and make note of the outputs.
@@ -65,9 +65,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-- ### Accuracy: 85.95%
-- #### skills Used:
-- ##### project Description:
+- <b>Accuracy:</b> 85.95%
+- <b> skills Used:</b>
+- <b> project Description:</b>
   -Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
   - Compared predictive performance by fitting a Naive Bayes model to the data
   - Selected best model based on train and test performance
