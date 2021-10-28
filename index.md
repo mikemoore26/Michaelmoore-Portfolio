@@ -20,7 +20,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/housesbanner.png" />
 
 - <b>accuracy score:</b> 85%
-- <b>skills used:</b>
+- <b>skills used:</b> Python, Sklearn kit, Linear Regression, Pandas,Numpy, Matplotlib, seaborn, accuracy score, model optimization,
 - <b>project Description:</b> in this project we used various features to determaine the price of a house depending on what the property have to offer
 - Practiced data normalization
 - Scaled data to make more accurate predictions
@@ -48,7 +48,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 ***
 
 - <b> Accuracy:</b> 90%
-- <b> skills Used:</b>
+- <b> skills Used:</b> Python,Numpy, Pandas, Matplotlib, Seaborn, Smote, Logisitic Regression,
 - <b> project Description:</b>
 - Used logistic regression to identify potential bankers based on various attributes.
 - Implemented SMOTE to balance class labels.
