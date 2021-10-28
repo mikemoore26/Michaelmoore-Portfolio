@@ -8,8 +8,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/heart_img.jpeg" />
 
 - <b>accuracy score</b>: 94%
-- #### skills used: python,sklearn,logistic Regression,pandas,numpy, pickle
-- ##### project Description:
+- <b>skills used:</b> Python,sklearn,logistic Regression,pandas,numpy, pickle
+- <b>Project Description:</b>:
 - Visual EDA, Feature Engineering, Model building
 - Used various logisitic models to find the appropreite model to get more accurate scores 
 -   -Random Forest Gave us the best estimator
