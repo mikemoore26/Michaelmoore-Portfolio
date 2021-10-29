@@ -9,8 +9,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 - <b>accuracy score</b>: 94%
 - <b>skills used:</b> python,sklearn,logistic Regression,pandas,numpy, pickle
-- <b>Project Description:</b>: In this project i used various features to determain if a patient would have lung cancer
-- Visual EDA, Feature Engineering, Model building
+- <b>Project Description:</b>: Predicting Heart Disease. Analyze the data set and identify most relevant heart disease related risk factors as well as predict the overall risk.
 - Used various logisitic models to find the appropreite model to get more accurate scores 
 -   -Random Forest Gave us the best estimator
 
@@ -21,7 +20,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 - <b>accuracy score:</b> 89%
 - <b>skills used:</b> Python, Sklearn kit, Linear Regression, Pandas,Numpy, Matplotlib, seaborn, accuracy score, model optimization,
-- <b>project Description:</b> in this project we used various features to determaine the price of a house depending on what the property have to offer
+- <b>project Description:</b> With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 - Practiced data normalization
 - Scaled data to make more accurate predictions
 - Used various logisitic models to find the appropreite model to get more accurate scores 
@@ -33,7 +32,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 - <b>Accuracy:</b> 88.39%
 - <b>skills used:</b> sklearn,pandas,numpy,matplotlib,seaborn,regression
-- <b>project Description:</b>
+- <b>project Description:</b>Using recorded weather forecasts i trained a model which predict the possible amount of customers would be interested in renting a bike for a particular day
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
