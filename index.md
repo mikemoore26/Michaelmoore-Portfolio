@@ -48,7 +48,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 - <b> Accuracy:</b> 90%
 - <b> skills Used:</b> Python,Numpy, Pandas, Matplotlib, Seaborn, Smote, Logisitic Regression,
-- <b> project Description:</b>
+- <b> project Description:</b>In this project you will be provided with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.The classification goal is to predict if the client will subscribe a term deposit (variable y).
 - Used logistic regression to identify potential bankers based on various attributes.
 - Implemented SMOTE to balance class labels.
 - Created the confusion matrix for the predictions and make note of the outputs.
