@@ -8,8 +8,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/heart_img.jpeg" />
 
 - <b>skills used:</b> python,sklearn,logistic Regression,pandas,numpy, pickle
-- - <b> Project Objective:</b> 
-- 
+- <b> Project Objective:</b> 
+
 - <b>Quantifiable Result</b>: 94%
 - <b>Project Description:</b>: Predicting Heart Disease. Analyze the data set and identify most relevant heart disease related risk factors as well as predict the overall risk.
 - Used various logisitic models to find the appropreite model to get more accurate scores 
