@@ -69,7 +69,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-- <b> skills Used:</b>
+- <b> skills Used:</b> Pandas, Numpy, sklearn, matplotlib, seaborn, logistic Regression, K-Nearest Neighbor
 - <b> project Description:</b>
   -Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
   - Compared predictive performance by fitting a Naive Bayes model to the data
