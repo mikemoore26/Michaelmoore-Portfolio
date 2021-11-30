@@ -8,6 +8,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/heart_img.jpeg" />
 
 - <b>skills used:</b> python,sklearn,logistic Regression,pandas,numpy, pickle
+- - <b> Project Objective:</b> 
+- 
 - <b>Quantifiable Result</b>: 94%
 - <b>Project Description:</b>: Predicting Heart Disease. Analyze the data set and identify most relevant heart disease related risk factors as well as predict the overall risk.
 - Used various logisitic models to find the appropreite model to get more accurate scores 
@@ -19,6 +21,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/housesbanner.png" />
 
 - <b>skills used:</b> Python, Sklearn kit, Linear Regression, Pandas,Numpy, Matplotlib, seaborn, accuracy score, model optimization,
+- <b> Project Objective:</b> 
+
 - <b>project Description:</b> With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 - Practiced data normalization
 - Scaled data to make more accurate predictions
@@ -51,6 +55,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 - <b> skills Used:</b> Python,Numpy, Pandas, Matplotlib, Seaborn, Smote, Logisitic Regression,
+- <b> Project Objective:</b> 
+- 
 - <b> project Description:</b>In this project you will be provided with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.The classification goal is to predict if the client will subscribe a term deposit (variable y).
 - Used logistic regression to identify potential bankers based on various attributes.
 - Implemented SMOTE to balance class labels.
@@ -70,6 +76,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 ***
 
 - <b> skills Used:</b> Pandas, Numpy, sklearn, matplotlib, seaborn, logistic Regression, K-Nearest Neighbor
+- <b> Project Objective:</b> Used the K Nearest Neighbours algorithm to classify a patient’s condition as normal or abnormal based on various orthopedic parameters
 - <b> project Description:</b>
   -Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
   - Compared predictive performance by fitting a Naive Bayes model to the data
