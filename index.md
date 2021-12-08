@@ -8,6 +8,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/heart_img.jpeg" />
 
 - <b>Skills Used:</b> Python,sklearn,logistic Regression,pandas,numpy, pickle
+
 - <b> Project Objective:</b> Predicting Heart Disease. Analyze the data set and identify most relevant heart disease related risk factors as well as predict the overall risk.
 
 - <b>Quantifiable Result</b>: Used various logisitic models to find the appropreite model to get more accurate scores But By using Random Forest we got accuracy 94%
@@ -18,7 +19,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/housesbanner.png" />
 
 - <b>Skills used:</b> Python, Sklearn, Linear Regression, Pandas,Numpy, Matplotlib, Seaborn
+
 - <b> Project Objective:</b>In this Project We have to explore the Data and Predict the House Price.
+
 - <b>Quantifiable Result:</b> We can Predict the House Price with 89% Accuracy
 
 ***
@@ -28,7 +31,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/sbike.jpeg?raw=true"/>
 
 - <b>Skills used:</b> sklearn,pandas,numpy,matplotlib,seaborn,Linear  Regression
-- <b> Project Objective:</b> By predicting the bike rental demand in advance from weather forecast, Bike Rental Company position the bike according to customers demands resulting in increase in bike utilization.  
+
+- <b> Project Objective:</b> By predicting the bike rental demand in advance from weather forecast, Bike Rental Company position the bike according to customers demands resulting in increase in bike utilization. 
+
 - <b>Quantifiable Result:</b>  We can Predict the Bike Rental Demand Price with 88.39% Accuracy
 
 
@@ -40,9 +45,10 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 - <b> Skills Used:</b> Python,Numpy, Pandas, Matplotlib, Seaborn, Smote, Logisitic Regression,
+
 - <b> Project Objective:</b> The Main Objective is to predict if the client will subscribe a term deposit (variable y).
-- Model had an accuracy score 91.25%.
-- <b> Quantifiable Result:</b> We can Predict the Customer's Response with 90% accuracy.
+
+- <b> Quantifiable Result:</b> We can Predict the Customer's Response with 91.25% accuracy.
 
 
 
@@ -55,6 +61,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 ***
 
 - <b> Skills Used:</b> Pandas, Numpy, sklearn, Matplotlib, Seaborn, Logistic Regression, K-Nearest Neighbor
+
 - <b> Project Objective:</b> Used the K Nearest Neighbours algorithm to classify a patient’s condition as normal or abnormal based on various orthopedic parameters
 
 - <b>Quantifiable Result:</b> We can Identify Symptoms of orthopedic patients as Normal or abnormal with 85.95% accuracy
